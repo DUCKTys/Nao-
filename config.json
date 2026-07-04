@@ -1,0 +1,76 @@
+{
+  "bot": {
+    "name": "Nao Tomori",
+    "phoneNumber": "",
+    "thumbnail": "",
+    "groupJid": ""
+  },
+  "msg": {
+    "admin": "Perintah hanya dapat digunakan oleh admin grup!",
+    "banned": "Anda telah dibanned!",
+    "botAdmin": "Bot harus menjadi admin grup!",
+    "botGroupMembership": "Anda tidak bergabung dengan grup bot!",
+    "coin": "Koin Anda tidak cukup!",
+    "cooldown": "Perintah sedang dalam cooldown, tunggu...",
+    "gamerestrict": "Admin grup membatasi perintah game!",
+    "group": "Perintah hanya dapat digunakan dalam grup!",
+    "groupSewa": "Admin grup belum melakukan sewa!",
+    "owner": "Perintah hanya dapat digunakan oleh owner!",
+    "premium": "Anda harus menjadi pengguna premium!",
+    "private": "Perintah hanya dapat digunakan dalam obrolan pribadi!",
+    "privatePremiumOnly": "Anda harus menjadi pengguna premium untuk menggunakannya dalam obrolan pribadi.",
+    "restrict": "Perintah dibatasi untuk menghindari pemblokiran WhatsApp!",
+    "unavailableAtNight": "Bot tidak tersedia dari jam 12 malam sampai 6 pagi! Silakan kembali nanti.",
+    "footer": "Developed by DUCK_Tys",
+    "wait": "Tunggu sebentar...",
+    "notFound": "Tidak ada yang ditemukan! Coba lagi nanti.",
+    "error": "Terjadi kesalahan saat memproses permintaan! Coba lagi nanti atau hubungi owner jika masalah terus berlanjut.",
+    "invalidUrl": "URL tidak valid!"
+  },
+  "owner": {
+    "name": "Rangga",
+    "organization": "PT. Penjinak Tocil",
+    "id": "6281359053674",
+    "report": true,
+    "co": [
+      {
+        "name": "Esteh.",
+        "organization": "PT. Penjinak Tobrut",
+        "id": "6287815632486",
+        "report": false
+      },
+      {
+        "name": "Rudi",
+        "organization": "PT. Maju Mundur Cantik",
+        "id": "628xxx",
+        "report": false,
+        "invisible": true
+      }
+    ]
+  },
+  "sticker": {
+    "packname": "",
+    "author": "Nao Tomoro < 087815632486 >"
+  },
+  "system": {
+    "alwaysOnline": true,
+    "antiCall": true,
+    "autoRead": true,
+    "autoTypingOnCmd": false,
+    "cooldown": 10000,
+    "maxListeners": 50,
+    "port": 3000,
+    "privatePremiumOnly": false,
+    "restrict": false,
+    "requireBotGroupMembership": false,
+    "requireGroupSewa": false,
+    "selfReply": true,
+    "timeZone": "Asia/Jakarta",
+    "unavailableAtNight": false,
+    "useCoin": false,
+    "usePairingCode": true,
+    "customPairingCode": "DUCKTYS0",
+    "useStore": false,
+    "useServer": false
+  }
+}
